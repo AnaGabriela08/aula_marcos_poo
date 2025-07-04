@@ -1,0 +1,1 @@
+aula = input("digite seu nome: ")
